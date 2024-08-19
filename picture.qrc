@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Griffin.png</file>
+        <file>waypoint.svg</file>
+        <file>drone.png</file>
+        <file>drone2.png</file>
+        <file>drone griffin.png</file>
+    </qresource>
+</RCC>
